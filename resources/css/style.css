@@ -22,7 +22,7 @@ h1 {
 .link {
   font-size: 18px;
 }
-.heading {
+.heading, .head2 {
   text-align: center;
 }
 
@@ -40,4 +40,9 @@ h2 {
 }
 .white {
   text-align: center;
+}
+
+p {
+  font-size: 14px;
+
 }
