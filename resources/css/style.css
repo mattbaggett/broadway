@@ -10,8 +10,9 @@ body {
   font-weight: bold;
 }
 
-.heading {
+h1 {
   font-size: 70px;
+  text-align: center;
 }
 
 .sub, .head2 {
@@ -20,8 +21,9 @@ body {
 
 .link {
   font-size: 18px;
+}
+.heading {
   text-align: center;
-  color:white;
 }
 
 h2 {
